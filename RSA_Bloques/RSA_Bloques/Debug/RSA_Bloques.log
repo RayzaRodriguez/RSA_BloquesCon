@@ -1,0 +1,6 @@
+﻿  rsa.cpp
+C:\WINNTL\include\NTL\sp_arith.h(328,43): warning C4554:  "<<": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\HP\source\repos\RSA_Bloques\RSA_Bloques\rsa.cpp(30,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\HP\source\repos\RSA_Bloques\RSA_Bloques\rsa.cpp(74,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\HP\source\repos\RSA_Bloques\RSA_Bloques\rsa.cpp(124,20): warning C4018:  '<': no coinciden signed/unsigned
+  RSA_Bloques.vcxproj -> C:\Users\HP\source\repos\RSA_Bloques\Debug\RSA_Bloques.exe
